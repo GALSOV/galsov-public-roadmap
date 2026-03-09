@@ -5,9 +5,12 @@
 **Purpose:** Public-safe index for milestone proof and regression anchors.
 
 ## v0.1 regression anchors
-- Final v0.1 tag:
-- Final v0.1 DoD:
+- Final v0.1 tag: v0.1
+- Final v0.1 DoD: DoD-v0.1-r01
 - Final v0.1 evidence / release note links:
+  - Public v0.1 roadmap / board: https://github.com/users/GALSOV/projects/4/views/2
+  - Engine baseline: tag v0.1
+  - Note: v0.1 and v0.1-rc02 point to the same commit; use v0.1 as the canonical regression baseline.
 
 ## v0.2 proof placeholders
 ### Golden suite
