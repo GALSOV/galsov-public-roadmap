@@ -13,15 +13,18 @@ This repository is **roadmap-only**:
 - ❌ No build pipeline secrets / keys / internal tooling
 
 ## Where is the code?
-The engine repository is currently **private** while v0.1 is being implemented for commercial release.
+The engine repository remains **private**.
+
+Public progress is tracked here through milestones, issues, project board movement, screenshots, devlog links, and other public-safe notes.
 
 ## Current status
-- Milestone: v0.1 (MVP engine + minimal UI hooks)
-- Determinism-first: same seed → same galaxy → same TurnTrace
+- Current public focus: v0.2 — Turn Machine v1 + Proof & Reporting Foundation
+- Determinism-first: same seed -> same run -> same digest / trace expectations
+- UI remains a reporting lens over the sim, not the source of truth
 
 ## Roadmap / Project Board
-- Project Board: [@GALSOV’s Public v0.1 Roadmap](https://github.com/users/GALSOV/projects/4)
-- Milestones: (not published yet — tracked via the Project board for now)
+- Project Board: [@GALSOV’s Public (V0.2) Project Board](https://github.com/users/GALSOV/projects/9/views/1)
+- Milestones: https://github.com/GALSOV/galsov-public-roadmap/milestones
 - Devlog: https://galsov.com/devlog/
 
 ## How to follow / get involved
